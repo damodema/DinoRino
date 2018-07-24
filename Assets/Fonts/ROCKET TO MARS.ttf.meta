@@ -4,7 +4,7 @@ TrueTypeFontImporter:
   externalObjects: {}
   serializedVersion: 4
   fontSize: 50
-  forceTextureCase: 3
+  forceTextureCase: 0
   characterSpacing: 0
   characterPadding: 1
   includeFontData: 1
@@ -12,7 +12,7 @@ TrueTypeFontImporter:
   fontNames:
   - ROCKET TO MARS
   fallbackFontReferences: []
-  customCharacters: 1234567890
+  customCharacters: 
   fontRenderingMode: 2
   ascentCalculationMode: 1
   useLegacyBoundsCalculation: 0

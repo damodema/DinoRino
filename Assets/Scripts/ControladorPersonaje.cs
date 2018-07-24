@@ -41,6 +41,7 @@ public class ControladorPersonaje : MonoBehaviour {
 			dobleSalto = false;
 		}
 	}
+
 	// Update is called once per frame
 	//Funcion que se ejecuta en todos los fotogramas del juego 
 	void Update () {
